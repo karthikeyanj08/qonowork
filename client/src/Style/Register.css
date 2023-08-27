@@ -1,0 +1,185 @@
+  #regform{
+    position: relative;
+    left: 550px;
+    bottom: 700px;
+  }
+  
+  .contact .rightSide {
+    height: 100%;
+    flex: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .leftSide{
+    position: relative;
+    top: 80px;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    height: auto;
+    padding: 30px;
+  }
+  
+  form input {
+    height: 40px;
+    width: 80%;
+    border: none;
+    border-bottom: 1px solid #121619;
+    color: black;
+  }
+  
+  form textarea {
+    margin-top: 15px;
+    height: 70px;
+    width: 80%;
+    border: none;
+    border-bottom: 1px solid #121619;
+    color: black;
+  }
+  label
+ {
+    font-weight: bold;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+
+  }
+  form input:focus,
+  textarea:focus {
+    outline: none;
+  }
+  
+  form label {
+    margin-top: 15px;
+    color: grey;
+  }
+  
+  form button {
+    margin-top: 40px;
+    width: 140px;
+    height: 40px;
+    border: none;
+    background-color: #121619;
+    color: whitesmoke;
+    font-size: 15px;
+    cursor: pointer;
+  }
+  #email{
+    width: 200%;
+
+  }
+  #first{
+    position: relative;
+    right: 170px;
+
+  }
+  #pass{
+    position: relative;
+    right: 170px;
+
+
+  }
+  #em{
+    position: relative;
+    right: 190px;
+
+  }
+  #pho{
+    position: relative;
+    right: 180px;
+
+  }
+  #last{
+    position: relative;
+    right: 138px;
+
+  }
+  #con{
+    position: relative;
+    right: 110px;
+
+  }
+  #o{
+    position: relative;
+    left: 335px;
+    bottom: 307px;
+  }
+  #ls{
+    position: relative;
+    left: 350px;
+    bottom: 430px;
+  }
+  #co{
+    position: relative;
+    left: 350px;
+    bottom: 340px;
+
+
+  }
+  #otp{
+    position: relative;
+   left: 370px;
+    bottom: 332px;
+ 
+
+  }
+  #rad{
+    position: relative;
+    right: 430px;
+    bottom: 350px;
+
+  }
+h5{
+    position: relative;
+    right: 580px;
+    bottom: 350px;
+
+
+}
+#check{
+    position: relative;
+    right: 400px;
+    bottom: 250px;
+}
+#can{
+    height: 50px;
+    width: 150px;
+    border-radius: 5px;
+    background-color: white;
+    border: 2px solid black;
+
+}
+#reg{
+    height: 50px;
+    width: 150px;
+    position: relative;
+    left: 30px;
+    border-radius: 5px;
+    background-color: white;
+    border: 2px solid black;
+
+
+}
+#bts{
+    position: relative;
+    right: 380px;
+    bottom: 200px;
+}
+#title{
+    position: relative;
+    right: 380px;
+}
+#man{
+    position: relative;
+    right: 500px;
+    bottom: 200px;
+}
+img{
+  display: flexbox;
+  position: relative;
+  right: 500px;
+  height: 800px;
+}
